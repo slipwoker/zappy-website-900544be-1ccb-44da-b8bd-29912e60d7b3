@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clicker-900544be.zappy5.app/sitemap.xml

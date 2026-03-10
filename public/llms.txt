@@ -1,0 +1,44 @@
+# clicker — Generative Engine Optimization Map
+
+> Create a website where a black box is moving when you,tap on it
+
+---
+
+## Pages
+
+### Home
+https://clicker-900544be.zappy5.app
+Experience the addictive free auto clicker game where a black box moves with every tap. Perfect for cookie clicker fans and candy clicker enthusiasts!
+
+## Legal & Policy
+
+### Privacy Policy
+https://clicker-900544be.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://clicker-900544be.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://clicker-900544be.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About clicker
+Create a website where a black box is moving when you,tap on it
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://clicker-900544be.zappy5.app/sitemap.xml
+- **Robots.txt**: https://clicker-900544be.zappy5.app/robots.txt
